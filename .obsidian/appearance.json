@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Lora",
+  "textFontFamily": "Lora",
+  "cssTheme": "Sanctum",
+  "theme": "system"
 }
