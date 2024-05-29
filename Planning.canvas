@@ -1,14 +1,15 @@
 {
 	"nodes":[
 		{"id":"d5d97c9257fe9b52","type":"text","text":"### Central Tenets\n- **Communication of emotion - particularly through literature & the arts.**\n- **Empathy & Understanding**\n- **Appreciation & value of the arts.**\n- **Appreciation & value of nature.**\n- **Value of human connection.**\n- **Value and permanence of hope.**","x":-125,"y":-30,"width":445,"height":290},
-		{"id":"7624106f120428b5","x":360,"y":-30,"width":500,"height":450,"type":"text","text":"### Creation Myth\n- Primordial God experiences loneliness, causing the universe to be created.\n- The Lesser Universal Gods are created:\n\t- God of Gravity, Responsibility, & Guilt.\n\t- \n\t- God of Emergence & Knowledge\n\t- God of Chaos\n\n\t- God of Fate\n\t- God of Foresight, Intelligence, & Hubris."},
-		{"id":"c38b58313884aba6","x":880,"y":-30,"width":600,"height":450,"type":"text","text":"### Gods & Deities\n- Yenra: The first primordial god at the start of the universe.\n***\nAudena - Gods of universal forces\n\t- 1: Gravity & Responsibility\n\t- 2: Energy & Inspiration.\n\t- Krono: Time & ///\n\n///\n\t- 3: Chaos & \n\t- 4: Emergence & Knowledge"},
+		{"id":"7624106f120428b5","type":"text","text":"### Creation Myth\n- Primordial God experiences loneliness, causing the universe to be created.\n- The Lesser Universal Gods are created:\n\t- God of Gravity, Responsibility, & Guilt.\n\t- \n\t- God of Emergence & Knowledge\n\t- God of Chaos\n\n\t- God of Fate\n\t- God of Foresight, Intelligence, & Hubris.","x":360,"y":-30,"width":500,"height":450},
+		{"id":"c38b58313884aba6","type":"text","text":"### Gods & Deities\n- Yenra: The first primordial god at the start of the universe.\n***\nAudena - Gods of universal forces\n\t- 1: Gravity & Responsibility\n\t- 2: Energy & Inspiration.\n\t- Krono: Time & ///\n\n///\n\t- 3: Chaos & \n\t- 4: Emergence & Knowledge","x":880,"y":-30,"width":600,"height":450},
 		{"id":"7d3ee191909f84b2","type":"text","text":"1","x":1560,"y":60,"width":200,"height":60},
 		{"id":"3ffd9052aac268a6","type":"text","text":"2","x":1800,"y":60,"width":200,"height":60},
 		{"id":"1caf232a1da741e4","type":"text","text":"4","x":1800,"y":255,"width":200,"height":60},
 		{"id":"bb2b993c1db4be0d","type":"text","text":"3","x":1560,"y":255,"width":200,"height":60},
 		{"id":"634da7c74f59c127","type":"text","text":"Krono","x":2040,"y":60,"width":200,"height":60},
-		{"id":"38747eddf6992c84","x":1800,"y":-120,"width":200,"height":60,"type":"text","text":"Yenra"}
+		{"id":"38747eddf6992c84","type":"text","text":"Yenra","x":1800,"y":-120,"width":200,"height":60},
+		{"id":"e78e81c66d4927c4","type":"text","text":"### The Planets\n- Mars: 1st People - Destroyed themselves & the planet (+divine intervention) through war, conflict, and mis-understandings.\n- Venus: 2nd People - Destroyed themselves through a mass hysteria (divine intervention/punishment) of strong emotional feelings (particularly pertaining to love).\n- Luna: 3rd People - Slowly died out from jealously/sadness towards not living on (and not being able to live on) Earth.\n- Earth: 4th People - Current humanity.","x":360,"y":460,"width":500,"height":420}
 	],
 	"edges":[
 		{"id":"6e29db0bd8a2f4e0","fromNode":"38747eddf6992c84","fromSide":"bottom","toNode":"7d3ee191909f84b2","toSide":"top"},
