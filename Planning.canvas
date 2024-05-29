@@ -1,21 +1,30 @@
 {
 	"nodes":[
 		{"id":"d5d97c9257fe9b52","type":"text","text":"### Central Tenets\n- **Communication of emotion - particularly through literature & the arts.**\n- **Empathy & Understanding**\n- **Appreciation & value of the arts.**\n- **Appreciation & value of nature.**\n- **Value of human connection.**\n- **Value and permanence of hope.**","x":-125,"y":-30,"width":445,"height":290},
-		{"id":"7624106f120428b5","type":"text","text":"### Creation Myth\n- Primordial God experiences loneliness, causing the universe to be created.\n- The Lesser Universal Gods are created:\n\t- God of Gravity, Responsibility, & Guilt.\n\t- \n\t- God of Emergence & Knowledge\n\t- God of Chaos\n\n\t- God of Fate\n\t- God of Foresight, Intelligence, & Hubris.","x":360,"y":-30,"width":500,"height":450},
-		{"id":"c38b58313884aba6","type":"text","text":"### Gods & Deities\n- Yenra: The first primordial god at the start of the universe.\n***\nAudena - Gods of universal forces\n\t- 1: Gravity & Responsibility\n\t- 2: Energy & Inspiration.\n\t- Krono: Time & ///\n\n///\n\t- 3: Chaos & \n\t- 4: Emergence & Knowledge","x":880,"y":-30,"width":600,"height":450},
-		{"id":"7d3ee191909f84b2","type":"text","text":"1","x":1560,"y":60,"width":200,"height":60},
-		{"id":"3ffd9052aac268a6","type":"text","text":"2","x":1800,"y":60,"width":200,"height":60},
-		{"id":"1caf232a1da741e4","type":"text","text":"4","x":1800,"y":255,"width":200,"height":60},
-		{"id":"bb2b993c1db4be0d","type":"text","text":"3","x":1560,"y":255,"width":200,"height":60},
-		{"id":"634da7c74f59c127","type":"text","text":"Krono","x":2040,"y":60,"width":200,"height":60},
-		{"id":"38747eddf6992c84","type":"text","text":"Yenra","x":1800,"y":-120,"width":200,"height":60},
-		{"id":"e78e81c66d4927c4","type":"text","text":"### The Planets\n- Mars: 1st People - Destroyed themselves & the planet (+divine intervention) through war, conflict, and mis-understandings.\n- Venus: 2nd People - Destroyed themselves through a mass hysteria (divine intervention/punishment) of strong emotional feelings (particularly pertaining to love).\n- Luna: 3rd People - Slowly died out from jealously/sadness towards not living on (and not being able to live on) Earth.\n- Earth: 4th People - Current humanity.","x":360,"y":460,"width":500,"height":420}
+		{"id":"7624106f120428b5","type":"text","text":"### Creation Myth\n- Primordial god Yenra experiences loneliness, causing the universe and Audena to be created.\n- The Audena use the new matter of the universe to create stars and galaxies.\n- Tharn & Krono have the child Itea.\n- Yanel manifests Lethe into existence.\n- Tharn has an affair with Lilin, resulting in Maris' birth.","x":360,"y":-30,"width":500,"height":450},
+		{"id":"c38b58313884aba6","type":"text","text":"### Gods & Deities\n- Yenra: The first primordial god at the start of the universe.\n***\nAudena - Gods of universal forces\n\t- (M) Tharn: Gravity & Responsibility\n\t- (F) Lilin: Energy & Inspiration.\n\t- (M,F) Krono: Time & Reflection\n\t- (M,F) Yanel: Light & Hope\n\nLinye - Gods of abstract forces\n\t- (M,F) Maris: Chaos & Instability\n\t- (F) Lethe: Emergence & Knowledge\n\t- (F) Itea: Rest & Peace\n\n***\n\nKainel - Gods of emotional forces\n\t- (M) Athel: Empathy & Anxiety","x":880,"y":-30,"width":600,"height":630},
+		{"id":"e78e81c66d4927c4","type":"text","text":"### The Planets\n- Mars: 1st People - Destroyed themselves & the planet (+divine intervention) through war, conflict, and mis-understandings.\n- Venus: 2nd People - Destroyed themselves through a mass hysteria (divine intervention/punishment) of strong emotional feelings (particularly pertaining to love).\n- Luna: 3rd People - Slowly died out from jealously/sadness towards not living on (and not being able to live on) Earth.\n- Earth: 4th People - Current humanity.","x":360,"y":460,"width":500,"height":420},
+		{"id":"9f76b736417b6e87","type":"text","text":"Yanel","x":2280,"y":60,"width":200,"height":60},
+		{"id":"38747eddf6992c84","type":"text","text":"Yenra","x":1920,"y":-140,"width":200,"height":60},
+		{"id":"08214f14e3b0f159","type":"text","text":"Lethe","x":2280,"y":195,"width":200,"height":60},
+		{"id":"7d3ee191909f84b2","type":"text","text":"Tharn","x":1800,"y":60,"width":200,"height":60},
+		{"id":"634da7c74f59c127","type":"text","text":"Krono","x":1560,"y":60,"width":200,"height":60},
+		{"id":"3ffd9052aac268a6","type":"text","text":"Lilin","x":2040,"y":60,"width":200,"height":60},
+		{"id":"cc4864640b0f711c","type":"text","text":"Maris","x":1920,"y":195,"width":200,"height":60},
+		{"id":"bb2b993c1db4be0d","type":"text","text":"Itea","x":1680,"y":195,"width":200,"height":60},
+		{"id":"12da01a2492b2b61","type":"text","text":"Athel","x":2100,"y":320,"width":200,"height":60}
 	],
 	"edges":[
 		{"id":"6e29db0bd8a2f4e0","fromNode":"38747eddf6992c84","fromSide":"bottom","toNode":"7d3ee191909f84b2","toSide":"top"},
 		{"id":"3ad79ef19e40778f","fromNode":"38747eddf6992c84","fromSide":"bottom","toNode":"3ffd9052aac268a6","toSide":"top"},
-		{"id":"b530620e50d4fee9","fromNode":"7d3ee191909f84b2","fromSide":"right","toNode":"bb2b993c1db4be0d","toSide":"top"},
-		{"id":"815fe79fd6af21cc","fromNode":"3ffd9052aac268a6","fromSide":"left","toNode":"1caf232a1da741e4","toSide":"top"},
-		{"id":"52352aaaaefa91a3","fromNode":"38747eddf6992c84","fromSide":"bottom","toNode":"634da7c74f59c127","toSide":"top"}
+		{"id":"52352aaaaefa91a3","fromNode":"38747eddf6992c84","fromSide":"bottom","toNode":"634da7c74f59c127","toSide":"top"},
+		{"id":"e89716ed0e55394d","fromNode":"38747eddf6992c84","fromSide":"bottom","toNode":"9f76b736417b6e87","toSide":"top"},
+		{"id":"90e98d47cab25c3a","fromNode":"9f76b736417b6e87","fromSide":"bottom","toNode":"08214f14e3b0f159","toSide":"top"},
+		{"id":"dcf9cce63d51611b","fromNode":"7d3ee191909f84b2","fromSide":"right","toNode":"cc4864640b0f711c","toSide":"top"},
+		{"id":"01ea9e12bef77ed3","fromNode":"3ffd9052aac268a6","fromSide":"left","toNode":"cc4864640b0f711c","toSide":"top"},
+		{"id":"eaca3b9e39d3dae5","fromNode":"634da7c74f59c127","fromSide":"right","toNode":"bb2b993c1db4be0d","toSide":"top"},
+		{"id":"bb1479c3fd617260","fromNode":"7d3ee191909f84b2","fromSide":"left","toNode":"bb2b993c1db4be0d","toSide":"top"},
+		{"id":"554a5b8f1752a881","fromNode":"cc4864640b0f711c","fromSide":"right","toNode":"12da01a2492b2b61","toSide":"top"},
+		{"id":"b0d737746fefcaaa","fromNode":"08214f14e3b0f159","fromSide":"left","toNode":"12da01a2492b2b61","toSide":"top"}
 	]
 }
