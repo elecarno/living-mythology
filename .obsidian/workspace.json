@@ -11,13 +11,25 @@
             "id": "6d7ddc7fb588c6cf",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripture/1 - Plight of Yenra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ec9544b1727b4ea",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Planning.canvas",
                 "viewState": {
-                  "x": 816.3235890375353,
-                  "y": 1137.3510973911846,
-                  "zoom": -0.38231524658852695
+                  "x": 1763.0818601782662,
+                  "y": 529.6258456376173,
+                  "zoom": -0.6536242027162805
                 }
               }
             }
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning.canvas",
+                "file": "Scripture/1 - Plight of Yenra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning.canvas",
+                "file": "Scripture/1 - Plight of Yenra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning.canvas"
+                "file": "Scripture/1 - Plight of Yenra.md"
               }
             }
           }
@@ -152,8 +164,11 @@
   },
   "active": "6d7ddc7fb588c6cf",
   "lastOpenFiles": [
-    "Homepage.md",
+    "Scripture/0 - Preamble.md",
+    "Scripture/1 - Plight of Yenra.md",
     "Planning.canvas",
+    "The Living Mythology.md",
+    "Scripture",
     "2024-05-29.md",
     "Untitled.md"
   ]
