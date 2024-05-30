@@ -18,7 +18,8 @@
 		{"id":"9d33b7f2f2fbccca","type":"text","text":"Amare","x":2400,"y":320,"width":200,"height":60,"color":"4"},
 		{"id":"2622be6ae3ef98d2","type":"text","text":"Tera","x":2620,"y":480,"width":200,"height":60,"color":"3"},
 		{"id":"5cf769bbf9a7eaf5","type":"text","text":"Erin","x":2400,"y":480,"width":200,"height":60,"color":"3"},
-		{"id":"e479689fd54f50aa","type":"text","text":"Aure","x":2180,"y":480,"width":200,"height":60,"color":"3"}
+		{"id":"e479689fd54f50aa","type":"text","text":"Aure","x":2180,"y":480,"width":200,"height":60,"color":"3"},
+		{"id":"410d27137156290e","x":880,"y":-480,"width":360,"height":180,"type":"text","text":"### The Primordial Ailments\n- **The First:** Loneliness\n- **The Second:** Jealousy\n- **The Third:** Rage"}
 	],
 	"edges":[
 		{"id":"6e29db0bd8a2f4e0","fromNode":"38747eddf6992c84","fromSide":"bottom","toNode":"7d3ee191909f84b2","toSide":"top","color":"5"},
