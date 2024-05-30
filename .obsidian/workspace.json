@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture/2 - The Audena.md",
-                "mode": "source",
+                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture/1 - The Plight of Yenra.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripture/2 - The Audena.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripture/2 - The Audena.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripture/2 - The Audena.md"
+                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md"
               }
             }
           }
@@ -176,11 +176,13 @@
   },
   "active": "8f5beafa22d6caba",
   "lastOpenFiles": [
+    "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
+    "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
+    "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
+    "Scripture/Preamble.md",
+    "Scripture/I - Birth of The Pantheon",
     "Planning.canvas",
-    "Scripture/1 - The Plight of Yenra.md",
-    "Scripture/2 - The Audena.md",
     "Homepage.md",
-    "Scripture/0 - Preamble.md",
     "The Living Mythology.md",
     "Scripture",
     "2024-05-29.md",
