@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "21f8a8fa3cb91fc4",
+        "id": "d9431d1f3669b9fb",
         "type": "tabs",
         "children": [
           {
-            "id": "ff99ede9d62ad77f",
+            "id": "6d7ddc7fb588c6cf",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Planning.canvas",
                 "viewState": {
-                  "x": 729.7796208262487,
-                  "y": 485.955154322119,
-                  "zoom": -0.006078774002414603
+                  "x": 816.3235890375353,
+                  "y": 1137.3510973911846,
+                  "zoom": -0.38231524658852695
                 }
               }
             }
@@ -79,24 +79,8 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5b31ee94b90cfd",
-        "type": "tabs",
-        "dimension": 50.64814814814815,
-        "children": [
-          {
-            "id": "0b187e70bcf002b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "14ccd7d3178f409c",
         "type": "tabs",
-        "dimension": 49.35185185185185,
         "children": [
           {
             "id": "66e9ec9a954f486a",
@@ -166,11 +150,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ff99ede9d62ad77f",
+  "active": "6d7ddc7fb588c6cf",
   "lastOpenFiles": [
-    "2024-05-29.md",
-    "Planning.canvas",
     "Homepage.md",
+    "Planning.canvas",
+    "2024-05-29.md",
     "Untitled.md"
   ]
 }
