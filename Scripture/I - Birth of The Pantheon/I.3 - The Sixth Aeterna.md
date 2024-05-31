@@ -1,0 +1,7 @@
+In motion, was the universe set. The Audena, proud of their workings, gathered in one another's grasp and observed carefully as the budding of The Saturation came into its fullness. Watchful were the four siblings, and they took both great care and pleasure in guiding the expanding reality. It was not the way of the Audena to pierce the veil and send sweeping perturbations across the young cosmos. Instead, a chain would be formed — the interlocked arms of the child deities stretching across the stars, with the sibling on its end tasked to gently push stray Celestia to return to their true paths.
+
+And it was Yenra — though strewn thin as silk across the abyss, remained of strong mind, and was able to reach out from its vast purgatory to touch the minds of its children using the greater forces of a subdued First — who guided the four in their actions. Ever present was Yenra, and strongest felt by the Audena when all four held together, gathered around the cosmos and Celestia within, using the pure wills of the energies within to reach the faint calls of their creator.
+
+Yet these primordial seances were not without danger, and with each connection made to the great web of Yenra, the lingering powers of the First, Second, and Third grew ever stronger once more.
+
+(Yanel is infected and overcome by The First, and falls into the cosmos in an attempt to remedy her feelings)

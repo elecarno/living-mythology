@@ -1,4 +1,4 @@
-Audena, children of Yenra and seat to the thrones of the principle forces. Dazed upon creation, in the scattered ashes of their creator, and met only by the each other and the spilled Saturation that crept slowly through their void.
+Audena, Children of Yenra and seat to the thrones of the principle forces. Dazed upon creation, in the scattered ashes of their creator, and met only by the each other and the spilled Saturation that crept slowly through their void.
 
 Tharn, the first intervener, who scored his arms through the expanding universe, and pulled in his wake the nearest matter, so that they collected into bright and dense globules of existence. Until Krono, second to awaken from the daze, placed his hand upon Tharn's, and let the matter in his brother's wakes move freely in their momentum, so that they may collect on their own and in harmony with one another.
 

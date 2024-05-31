@@ -13,9 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d5cde6a32658a72c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Planning.canvas",
+                "viewState": {
+                  "x": 1124.8254119933492,
+                  "y": 472.0150502621642,
+                  "zoom": -1.1069665907901207
+                }
               }
             }
           }
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Living Mythology.md"
+                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md"
               }
             }
           }
@@ -149,16 +164,17 @@
   },
   "active": "7dd27ac49ebc5121",
   "lastOpenFiles": [
-    "Scripture/Preamble.md",
-    "The Living Mythology.md",
+    "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+    "Planning.canvas",
     "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
     "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
+    "The Living Mythology.md",
+    "Scripture/Preamble.md",
     "Homepage.md",
     "conflict-files-obsidian-git.md",
     "Scripture/I - Birth of The Pantheon",
     "Scripture",
-    "Planning.canvas",
     "Untitled.md"
   ]
 }
