@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ecea034467ff743c",
+        "id": "424aa7a861515085",
         "type": "tabs",
         "children": [
           {
-            "id": "8f5beafa22d6caba",
+            "id": "5119c4fd82c15af6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf02d1f0f9d09096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
+                "file": "The Living Mythology.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ebbec7f74d4f0d93",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Planning.canvas",
-                "viewState": {
-                  "x": 1350.6245631183506,
-                  "y": 408.2554704227641,
-                  "zoom": -0.4881310498354703
-                }
               }
             }
           }
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
+                "file": "The Living Mythology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
+                "file": "The Living Mythology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md"
+                "file": "The Living Mythology.md"
               }
             }
           }
@@ -174,15 +147,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f5beafa22d6caba",
+  "active": "5119c4fd82c15af6",
   "lastOpenFiles": [
+    "Homepage.md",
     "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
     "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
     "Scripture/Preamble.md",
     "Scripture/I - Birth of The Pantheon",
     "Planning.canvas",
-    "Homepage.md",
     "The Living Mythology.md",
     "Scripture",
     "2024-05-29.md",
