@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "21f8a8fa3cb91fc4",
+        "id": "63e2ab0b45c8e764",
         "type": "tabs",
         "children": [
           {
-            "id": "ff99ede9d62ad77f",
+            "id": "ddc36e452276e52f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Planning.canvas",
-                "viewState": {
-                  "x": 1963.334787937599,
-                  "y": 113.61616065697407,
-                  "zoom": 0.3333333333333332
-                }
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -79,24 +76,8 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5b31ee94b90cfd",
-        "type": "tabs",
-        "dimension": 50.64814814814815,
-        "children": [
-          {
-            "id": "0b187e70bcf002b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "14ccd7d3178f409c",
         "type": "tabs",
-        "dimension": 49.351851851851855,
         "children": [
           {
             "id": "66e9ec9a954f486a",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning.canvas",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning.canvas",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning.canvas"
+                "file": "Homepage.md"
               }
             }
           }
@@ -166,7 +147,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ff99ede9d62ad77f",
+  "active": "ddc36e452276e52f",
   "lastOpenFiles": [
     "Homepage.md",
     "Planning.canvas",
