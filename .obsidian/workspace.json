@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63e2ab0b45c8e764",
+        "id": "32accc3d1913151e",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc36e452276e52f",
+            "id": "7dd27ac49ebc5121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
+                "file": "The Living Mythology.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "The Living Mythology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "The Living Mythology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "The Living Mythology.md"
               }
             }
           }
@@ -147,9 +147,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ddc36e452276e52f",
+  "active": "7dd27ac49ebc5121",
   "lastOpenFiles": [
+    "Scripture/Preamble.md",
+    "The Living Mythology.md",
+    "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
+    "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
+    "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
     "Homepage.md",
+    "conflict-files-obsidian-git.md",
+    "Scripture/I - Birth of The Pantheon",
+    "Scripture",
     "Planning.canvas",
     "Untitled.md"
   ]
