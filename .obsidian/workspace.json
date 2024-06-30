@@ -11,11 +11,14 @@
             "id": "3511d076b837ca0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "The Living Mythology.md",
-                "mode": "source",
-                "source": false
+                "file": "Planning.canvas",
+                "viewState": {
+                  "x": 814.4995207380936,
+                  "y": 722.3902286229975,
+                  "zoom": 0.01112524350821171
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "Planning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "Planning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Living Mythology.md"
+                "file": "Planning.canvas"
               }
             }
           }
@@ -149,16 +152,16 @@
   },
   "active": "3511d076b837ca0a",
   "lastOpenFiles": [
-    "The Living Mythology.md",
     "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+    "Planning.canvas",
+    "The Living Mythology.md",
     "conflict-files-obsidian-git.md",
     "Homepage.md",
     "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
     "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
     "Scripture/Preamble.md",
     "Scripture/I - Birth of The Pantheon",
-    "Planning.canvas",
     "Scripture",
     "2024-05-29.md",
     "Untitled.md"
