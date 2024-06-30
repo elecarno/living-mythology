@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
-                "mode": "preview",
+                "file": "The Living Mythology.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
+                "file": "The Living Mythology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
+                "file": "The Living Mythology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md"
+                "file": "The Living Mythology.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "6c2c3a328e3aff9a",
   "lastOpenFiles": [
-    "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
+    "Planning.canvas",
     "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
     "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
-    "The Living Mythology.md",
+    "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
     "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
-    "Scripture/Preamble.md",
-    "Planning.canvas",
-    "Homepage.md",
     "conflict-files-obsidian-git.md",
+    "The Living Mythology.md",
+    "Scripture/Preamble.md",
+    "Homepage.md",
     "Scripture/I - Birth of The Pantheon",
     "Scripture",
     "Untitled.md"
