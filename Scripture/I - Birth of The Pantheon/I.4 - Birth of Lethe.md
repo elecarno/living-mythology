@@ -1,1 +1,1 @@
-(Yanel embodies hope because the other Audena give her their hope  for her return when she falls into the comsos, and because she returns, she becomes proof of the validity of that hope.)
+(Yanel embodies hope because the other Audena give her their hope for her return when she falls into the cosmos, and because she returns, she becomes proof of the validity of that hope.)
