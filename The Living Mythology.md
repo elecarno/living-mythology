@@ -1,1 +1,1 @@
-pA new pantheon for the resurgent romanticist.
+A new pantheon for the resurgent romanticist.

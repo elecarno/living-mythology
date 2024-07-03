@@ -6,4 +6,4 @@ Yet these primordial seances were not without danger, and with each connection m
 
 And Yanel it would be — she who saw the most of the beauty within the young cosmos, who touched so tenderly at its strings to make waves in the light and pull the swirling matter in patterns that would be imprinted forevermore — that was struck by the ancient power, and afflicted so heavily by its fervours.
 
-(Yanel is infected and overcome by The First, and falls into the cosmos in an attempt to remedy her feelings)
+Drowned within the fountain of The First, a great distance grew between she and the other Audena, and the Celestia looked ever brighter as the ailment hazed her vision and pressured her mind. A great embrace crept from the stars, and Yanel fell of her own accord into the growing universe, longing for the twirling light to remedy her soul.
