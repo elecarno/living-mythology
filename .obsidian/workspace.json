@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d7c0cc12f2da6f",
+        "id": "4284a719a657533d",
         "type": "tabs",
         "children": [
           {
-            "id": "393cf1e2670f09f6",
+            "id": "052cfad538c44d22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,11 +147,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "393cf1e2670f09f6",
+  "active": "052cfad538c44d22",
   "lastOpenFiles": [
     "Planning.canvas",
-    "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+    "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "The Living Mythology.md",
     "conflict-files-obsidian-git.md",
     "Homepage.md",
