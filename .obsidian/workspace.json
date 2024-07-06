@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4284a719a657533d",
+        "id": "6803f0102cbb4ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "052cfad538c44d22",
+            "id": "b7eca21cb4b5a25b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "Scripture/Preamble.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "Scripture/Preamble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "Scripture/Preamble.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Living Mythology.md"
+                "file": "Scripture/Preamble.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "052cfad538c44d22",
+  "active": "b7eca21cb4b5a25b",
   "lastOpenFiles": [
     "Planning.canvas",
+    "Scripture/Preamble.md",
     "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
-    "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "The Living Mythology.md",
+    "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "conflict-files-obsidian-git.md",
     "Homepage.md",
     "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
     "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
-    "Scripture/Preamble.md",
     "Scripture/I - Birth of The Pantheon",
     "Scripture",
     "2024-05-29.md",
