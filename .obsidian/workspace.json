@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c48e626b2adae01d",
+        "id": "50efc30508e6d276",
         "type": "tabs",
         "children": [
           {
-            "id": "21270f4686a7d678",
+            "id": "d3d161f08bc48195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+                "file": "The Living Mythology.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "55a59f41387aeaa5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Planning.canvas",
-                "viewState": {
-                  "x": 1129.1733072015588,
-                  "y": -148.1978472432398,
-                  "zoom": 0.22636674254321248
-                }
               }
             }
           }
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+                "file": "The Living Mythology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+                "file": "The Living Mythology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md"
+                "file": "The Living Mythology.md"
               }
             }
           }
@@ -162,13 +147,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "21270f4686a7d678",
+  "active": "d3d161f08bc48195",
   "lastOpenFiles": [
-    "Planning.canvas",
     "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+    "The Living Mythology.md",
+    "Planning.canvas",
     "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
-    "The Living Mythology.md",
     "conflict-files-obsidian-git.md",
     "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
     "Scripture/Preamble.md",
