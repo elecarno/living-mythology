@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50efc30508e6d276",
+        "id": "d31e84194a8b4795",
         "type": "tabs",
         "children": [
           {
-            "id": "d3d161f08bc48195",
+            "id": "3bdb7aa7728f8687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Living Mythology.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Living Mythology.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,16 +147,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d3d161f08bc48195",
+  "active": "3bdb7aa7728f8687",
   "lastOpenFiles": [
+    "Scripture/Preamble.md",
     "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+    "conflict-files-obsidian-git.md",
+    "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "The Living Mythology.md",
     "Planning.canvas",
-    "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
     "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
-    "conflict-files-obsidian-git.md",
     "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
-    "Scripture/Preamble.md",
     "Homepage.md",
     "Scripture/I - Birth of The Pantheon",
     "Scripture",
