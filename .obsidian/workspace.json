@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "eac89b35f7a13dd7",
+        "id": "3cf4f40d41e4760b",
         "type": "tabs",
         "children": [
           {
-            "id": "86590127f9bb7307",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Planning.canvas",
-                "viewState": {
-                  "x": 1835.508787753183,
-                  "y": 363.31606446241364,
-                  "zoom": -0.10696659079012083
-                }
-              }
-            }
-          },
-          {
-            "id": "c8cfe67ef79b8f58",
+            "id": "f1cdc31cc40b2d2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.5 - Birth of Itea.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "I.2 - The Audena"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -70,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -78,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.5 - Birth of Itea.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for I.4 - Birth of Lethe"
             }
           },
           {
@@ -118,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.5 - Birth of Itea.md",
+                "file": "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from I.4 - Birth of Lethe"
             }
           },
           {
@@ -131,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripture/I - Birth of The Pantheon/I.5 - Birth of Itea.md"
-              }
+                "file": "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of I.4 - Birth of Lethe"
             }
           }
         ]
@@ -154,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,15 +170,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c8cfe67ef79b8f58",
+  "active": "f1cdc31cc40b2d2d",
   "lastOpenFiles": [
-    "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
-    "Scripture/I - Birth of The Pantheon/I.5 - Birth of Itea.md",
     "Planning.canvas",
-    "Scripture/Preamble.md",
     "Scripture/I - Birth of The Pantheon/I.1 - The Plight of Yenra.md",
     "Scripture/I - Birth of The Pantheon/I.2 - The Audena.md",
     "Scripture/I - Birth of The Pantheon/I.3 - The Sixth Aeterna.md",
+    "Scripture/I - Birth of The Pantheon/I.4 - Birth of Lethe.md",
+    "Scripture/Preamble.md",
+    "Scripture/I - Birth of The Pantheon/I.5 - Birth of Itea.md",
     "The Living Mythology.md",
     "conflict-files-obsidian-git.md",
     "Homepage.md",
